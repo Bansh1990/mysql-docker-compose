@@ -1,10 +1,15 @@
 # mysql-docker-compose
+
 docker-compose.yml and Makefile for mysql
-# Fast start
-``` 
+
+## Fast start
+
+```bash
 make start
 ```
-# help
-``` 
+
+## Help
+
+```bash
 make help
 ```
